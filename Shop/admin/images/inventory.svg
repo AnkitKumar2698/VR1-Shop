@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="45px" viewBox="0 0 46 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>inventory</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-469.000000, -2664.000000)" fill-rule="nonzero">
+            <g id="inventory" transform="translate(469.000000, 2664.000000)">
+                <rect id="Rectangle" fill="#C6A279" x="6.0004478" y="30.0007231" width="16" height="15" rx="1"></rect>
+                <rect id="Rectangle" fill="#C6A279" x="24.0004478" y="30.0007231" width="16" height="15" rx="1"></rect>
+                <rect id="Rectangle" fill="#C6A279" x="15.0004478" y="13.0007231" width="16" height="15" rx="1"></rect>
+                <path d="M45.0004478,12.0007244 C44.8579409,12.0004935 44.717129,11.9698081 44.5874478,11.9107231 L23.0004478,2.10072312 L1.4144478,11.9107231 C0.911592538,12.139369 0.318593689,11.9170784 0.0899478028,11.4142231 C-0.138698084,10.9113679 0.0835925381,10.318369 0.586447803,10.0897231 L22.5864478,0.089723119 C22.8494845,-0.0299077063 23.1514111,-0.0299077063 23.4144478,0.089723119 L45.4144478,10.0897231 C45.8437959,10.2840858 46.079159,10.7518457 45.9793727,11.2124533 C45.8795864,11.673061 45.4717398,12.0014755 45.0004478,12.0007244 Z" id="Path" fill="#B3B3B3"></path>
+                <rect id="Rectangle" fill="#DDBE99" x="30.0004478" y="30.0007231" width="4" height="6"></rect>
+                <rect id="Rectangle" fill="#DDBE99" x="21.0004478" y="13.0007231" width="4" height="6"></rect>
+                <rect id="Rectangle" fill="#DDBE99" x="12.0004478" y="30.0007231" width="4" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

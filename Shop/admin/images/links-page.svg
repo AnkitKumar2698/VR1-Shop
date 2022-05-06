@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="46px" viewBox="0 0 38 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>links-page</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1246.000000, -2745.000000)">
+            <g id="blog" transform="translate(1246.000000, 2745.000000)">
+                <rect id="Rectangle" fill="#E6E6E6" fill-rule="nonzero" x="0" y="0" width="38" height="46" rx="2"></rect>
+                <circle id="Oval" fill="#43A6DD" cx="19" cy="9" r="5"></circle>
+                <path d="M24,20 L13,20 C12.4477153,20 12,19.5522847 12,19 C12,18.4477153 12.4477153,18 13,18 L24,18 C24.5522847,18 25,18.4477153 25,19 C25,19.5522847 24.5522847,20 24,20 Z" id="Path" fill="#B3B3B3" fill-rule="nonzero"></path>
+                <path d="M24,27 L13,27 C12.4477153,27 12,26.5522847 12,26 C12,25.4477153 12.4477153,25 13,25 L24,25 C24.5522847,25 25,25.4477153 25,26 C25,26.5522847 24.5522847,27 24,27 Z" id="Path-Copy-5" fill="#B3B3B3" fill-rule="nonzero"></path>
+                <path d="M24,34 L13,34 C12.4477153,34 12,33.5522847 12,33 C12,32.4477153 12.4477153,32 13,32 L24,32 C24.5522847,32 25,32.4477153 25,33 C25,33.5522847 24.5522847,34 24,34 Z" id="Path-Copy-6" fill="#B3B3B3" fill-rule="nonzero"></path>
+                <path d="M24,41 L13,41 C12.4477153,41 12,40.5522847 12,40 C12,39.4477153 12.4477153,39 13,39 L24,39 C24.5522847,39 25,39.4477153 25,40 C25,40.5522847 24.5522847,41 24,41 Z" id="Path-Copy-7" fill="#B3B3B3" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,116 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+  
+html {
+    font-size: 62.5%;
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+ }
+
+ .row{
+  margin: 0;
+}
+
+
+ #logo, .button, .fig1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+.main {
+  background-image: linear-gradient(45deg, #85f9e2, #fff ,#85f9e2);
+}
+.img {
+  width: 350px;
+}
+
+.main-heading{
+  text-align: center;
+  font-size: 3rem;
+}
+
+.button{
+  margin: 2rem;
+
+}
+
+.dirbtn{
+  border-radius: 5rem;
+  font-size: 1.7rem;
+  padding: 1rem 2rem;
+  background-image: linear-gradient(to right, #85f9e2, rgb(167, 238, 167));
+  color: white;
+  margin: .5rem;
+}
+
+.heading{
+  color: rgb(93, 177, 206);
+  text-align: center;
+  font-size: 3.6rem;
+}
+
+.sub-heading{
+   text-align: center;
+   font-size: 2.1rem;
+   padding: 1.8rem;
+}
+
+.head{
+  color: rgb(93, 177, 206);
+  text-align: start;
+  font-size: 2rem;
+}
+
+.sub-head{
+  text-align: start;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+footer{
+  width: 100%;
+  margin-top: auto;
+  background-color: #85f9e2;
+}
+
+footer p{
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+
+
+@media (max-width: 768px) {
+  /* #logo img{
+    width: 1;
+  } */
+  .main-heading{
+    font-size: 2.5rem;
+  }
+  .heading{
+    font-size: 3rem;
+  }
+  .sub-heading{
+    font-size: 2rem;
+ }
+  .head{
+    font-size: 2.3rem;
+  }
+  .sub-head{
+    font-size: 1.5rem;
+  }
+  .btn{
+    margin: .3rem;
+  }
+  .img {
+    width: 100%;
+  }
+}
